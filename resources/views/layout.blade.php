@@ -25,7 +25,7 @@
                     <a class="nav-link" href="/about">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/create">Add Imageee</a>
+                    <a class="nav-link" href="/create">Add Image</a>
                 </li>
             </ul>
         </div>
